@@ -1,4 +1,4 @@
-# MSP430F5529PocketKit-for-STM32#
+# MSP430F5529PocketKit-for-STM32
 闲着没事把MSP430F5529PocketKit移植到了STM32上面
 #说明
 这里把MSP430F5529PocketKit移植到STM32f103c8t6上，所有的驱动都经过测试，包括DAC7571，DRV8837，Eink电子墨水屏，INA210，TMP421
